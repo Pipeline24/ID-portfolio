@@ -1,0 +1,25 @@
+.Where I live {
+    height: 100px;
+    width: 100%;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: lightsalmon;
+}
+
+.image-container-picture {
+    height: 100px;
+    width: 100%;
+    justify-content: center;
+}
+
+.img_size {
+    width: 50%;
+    height: 80%;
+    justify-content: center;
+    flex-direction: row;
+    
+
+}

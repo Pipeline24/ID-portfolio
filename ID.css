@@ -1,0 +1,22 @@
+
+
+body {
+    margin: 10px;
+    padding: 10px;
+    background-color: lightcyan;
+}
+
+
+.image-container-picture {
+    height: 100px;
+    width: 100%;
+    justify-content: center;
+}
+
+.img_size {
+    width: 45%;
+    height: 45%;
+    justify-content: center;
+    flex-direction: row;
+
+}
